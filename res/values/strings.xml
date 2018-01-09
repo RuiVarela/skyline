@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skyline</string>
+    
+    <string name="edit_passenger_name">VARELA/RUIMR</string>
+    <string name="edit_flight_number">Number</string>
+    <string name="edit_gate_key">Key</string>
+    
+    <string name="view_passenger_name">Passenger Name</string>
+    <string name="view_route">Route</string>
+    <string name="view_flight">Flight</string>
+    <string name="view_date">Date</string>
+    <string name="view_gate">Gate Operations</string>
+    <string name="view_gate_key">Operator Key</string>
+    <string name="view_generator">Generator</string>
+         
+    <string name="button_generate">Generate</string>
+    
+    <string name="button_gate_enable">Enable</string>
+    <string name="button_gate_disable">Disable</string>
+    <string name="button_gate_toggle">Toggle</string>
+    
+    
+    <string name="menu_settings">Settings</string>
+    
+    <string name="title_activity_boarding_data">Boarding Data</string>
+    <string name="title_activity_display_barcode">Barcode</string>
+        
+	<string-array name="iata_airport_codes">
+	    <item>LIS</item>
+	    <item>FRA</item>
+	    <item>KGL</item>
+	    <item>AMS</item>
+	    <item>LHR</item>
+	    <item>LGW</item>
+	    <item>RIX</item>
+	    <item>OTP</item>
+	    <item>ROM</item>
+	</string-array>
+
+	<string-array name="iata_carrier">
+	    <item>LH</item>
+	    <item>TP</item>
+	    <item>KL</item>
+	    <item>BA</item>
+	    <item>FR</item>
+	    <item>AZ</item>
+	</string-array>	
+	
+	<string-array name="iata_format">
+	    <item>QR_CODE</item>
+	    <item>CODE_128</item>
+	    <item>PDF_417</item>
+	</string-array>	
+	
+</resources>
